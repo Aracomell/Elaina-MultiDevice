@@ -47,27 +47,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Xiao_yan_21' //Link Instagrammu
+global.sig = 'https://instagram.com/madebyvin31' //Link Instagrammu
 global.sgh = 'https://github.com/Aracomell' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '082346595135' //Nomor Danamu
-global.ppulsa = '082346595135' //Nomor SimCard Yang Kamu Pake
+global.pdana = '085942139006' //Nomor Danamu
+global.ppulsa = '085942139006' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282346595135' //Nomor Bot
-global.nomorown = '6282346595137' //Nomor Owner
-global.namebot = 'Dit-Z Bot' //Nama Bot
+global.nomorbot = '6285942139006' //Nomor Bot
+global.nomorown = '6289504231588' //Nomor Owner
+global.namebot = '𝑶𝒕𝒐𝒎𝒆𝒙𝑨𝑹' //Nama Bot
 global.nameown = '𝒜𝓇𝒶𝒶 𝒜𝓇𝒶𝒶.' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282346595137', '❦ Dit-Z 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6289504231588', '❦ 𝒜𝓇𝒶𝒶 𝒜𝓇𝒶𝒶. 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,9 +99,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Dit-Z Bot 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Dit-Z Bot˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Dit-Z Bot'
+global.wm = '                「 𝑶𝒕𝒐𝒎𝒆𝒙𝑨𝑹 汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝑶𝒕𝒐𝒎𝒆𝒙𝑨𝑹˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝑶𝒕𝒐𝒎𝒆𝒙𝑨𝑹'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -330,7 +330,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62-823-4659-5137'
+global.phn = '+62-895-0423-1588'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -373,7 +373,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = '.'
 global.stickauth = `☂︎\n𝗘\nl\na\ni\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ Dit-Z Bot'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝑶𝒕𝒐𝒎𝒆𝒙𝑨𝑹'
 
 global.multiplier = 38 // The higher, The harder levelup
 
